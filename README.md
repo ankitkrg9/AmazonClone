@@ -7,8 +7,7 @@ A fully responsive Amazon-inspired e-commerce website built using **HTML**, **CS
 
 ## 🚀 Live Demo
 
-[🔗 View Demo (GitHub Pages)](https://ankitkrg9.github.io/amazon-clone/)  
-*(Replace with your actual link once hosted)*
+[🔗 View Demo (GitHub Pages)](https://ankitkrg9.github.io/AmazonClone/)
 
 ---
 
