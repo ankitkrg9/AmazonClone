@@ -35,5 +35,27 @@ A fully responsive Amazon-inspired e-commerce website built using **HTML**, **CS
 
 ## 📸 Screenshots
 ### 🏠 Home Page
-![Home Page](./image.png)
+![Home Page](./Amazon-Clone-Site-main/Amazon-Clone-Site-main/image.png)
 
+🎯 Future Improvements
+This is a frontend-only clone. Future enhancements may include:
+
+Backend integration using Node.js or Django
+
+Shopping cart functionality
+
+User login & signup authentication
+
+Add-to-cart and checkout flow
+
+Database integration for products and reviews
+
+Payment gateway (Stripe, Razorpay, etc.)
+
+## 🙋‍♂️ Author
+
+**Ankit Kumar**  
+📧 [ank.1234321kit@gmail.com](mailto:ank.1234321kit@gmail.com)  
+🌐 [Portfolio](https://ankit-portfolio-krg9.netlify.app)  
+🐙 [GitHub](https://github.com/ankitkrg9)  
+🔗 [LinkedIn](https://linkedin.com/in/ankitkrg9)
