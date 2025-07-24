@@ -34,5 +34,6 @@ A fully responsive Amazon-inspired e-commerce website built using **HTML**, **CS
 ---
 
 ## 📸 Screenshots
-
+### 🏠 Home Page
+![Home Page](./image.png)
 
